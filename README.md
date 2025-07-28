@@ -153,3 +153,13 @@ This repository documents my learning journey through an advanced Full-Stack Dev
 | 2      | Final Capstone Project            | Build a fully integrated, real-world full-stack web application.         |
 
 ---
+
+## 🌟 Highlight Points
+
+- 💡 **AI-Powered Learning**: Used Microsoft Copilot throughout for faster and smarter development.
+- 🛠 **Hands-on Projects**: Built multiple mini-projects and one capstone full-stack project.
+- 🌐 **End-to-End Development**: Covered front-end, back-end, API, database, security, and deployment.
+- 📈 **Career-Ready Skills**: Aligned with real-world developer workflows and industry tools.
+- 🚀 **DevOps & Deployment**: Gained experience in CI/CD and cloud deployment via Azure.
+
+
