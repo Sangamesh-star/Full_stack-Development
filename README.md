@@ -154,6 +154,14 @@ This repository documents my learning journey through an advanced Full-Stack Dev
 
 ---
 
+## 🛠️ Projects of Full Stack Web  Development 
+
+| Sl. No. | Project Name | Description |
+|--------:|--------------|-------------|
+| 01 | *To be added...* | This section will include beginner-level Full stack development mini-projects. Stay tuned! |
+
+---
+
 ## 🌟 Highlight Points
 
 - 💡 **AI-Powered Learning**: Used Microsoft Copilot throughout for faster and smarter development.
@@ -161,5 +169,31 @@ This repository documents my learning journey through an advanced Full-Stack Dev
 - 🌐 **End-to-End Development**: Covered front-end, back-end, API, database, security, and deployment.
 - 📈 **Career-Ready Skills**: Aligned with real-world developer workflows and industry tools.
 - 🚀 **DevOps & Deployment**: Gained experience in CI/CD and cloud deployment via Azure.
+
+---
+
+## 🖼️ Demo and Screenshots
+
+Coming Soon...
+
+---
+
+> 📌 Feel free to fork or star this repo. Contributions and suggestions are welcome!
+
+---
+
+## 🤝 Let's Connect
+
+Let's collaborate on Full Stack and its projects!
+
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail)](mailto:sangameshmkuri94@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangamesh_M_Kuri-blue)](https://www.linkedin.com/in/sangamesh-m-kuri-034682366)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917019880436)  
+[![X](https://img.shields.io/badge/X-Follow%20me-000000?style=for-the-badge&logo=twitter)](https://x.com/Sangameshkuri94)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/Sangamesh-star)
+
+---
+
+Made with ❤️ by **Sangamesh M Kuri**
 
 
