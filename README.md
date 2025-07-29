@@ -1,4 +1,4 @@
-# Full-Stack Development with Microsoft Copilot🚀
+# Full-Stack Development with MS Copilot🚀
 
 
 This repository documents my learning journey through an advanced Full-Stack Developer course powered by Microsoft Copilot. The course covers everything from programming fundamentals to deployment, DevOps, and real-world projects, with a focus on hands-on development and AI-powered productivity.
