@@ -17,7 +17,7 @@ This repository documents my learning journey through an advanced Full-Stack Dev
 
 ## 📚 Course and Topics
 
-### 🧱 Course 1. Foundations of Coding & Full-Stack Development
+### 🧱 Course 1: Foundations of Coding & Full-Stack Development
 
 | Sl. No | Topic Name                          | Description                                                                 |
 |--------|-------------------------------------|-----------------------------------------------------------------------------|
@@ -30,7 +30,7 @@ This repository documents my learning journey through an advanced Full-Stack Dev
 
 ---
 
-### 💻 2. Introduction to Programming with C#
+### 💻 Course 2: Introduction to Programming with C#
 
 | Sl. No | Topic Name                          | Description                                                                |
 |--------|-------------------------------------|----------------------------------------------------------------------------|
@@ -42,7 +42,7 @@ This repository documents my learning journey through an advanced Full-Stack Dev
 
 ---
 
-### 🌐 3. Introduction to Web Development
+### 🌐 Course 3: Introduction to Web Development
 
 | Sl. No | Topic Name                    | Description                                                                |
 |--------|-------------------------------|----------------------------------------------------------------------------|
@@ -54,7 +54,7 @@ This repository documents my learning journey through an advanced Full-Stack Dev
 
 ---
 
-### ⚙️ 4. Front-End Development with Blazor
+### ⚙️ Course 4:Front-End Development with Blazor
 
 | Sl. No | Topic Name                        | Description                                                              |
 |--------|-----------------------------------|--------------------------------------------------------------------------|
@@ -66,7 +66,7 @@ This repository documents my learning journey through an advanced Full-Stack Dev
 
 ---
 
-### 🔧 5. Back-End Development with .NET
+### 🔧 Course 5: Back-End Development with .NET
 
 | Sl. No | Topic Name                        | Description                                                              |
 |--------|-----------------------------------|--------------------------------------------------------------------------|
@@ -78,7 +78,7 @@ This repository documents my learning journey through an advanced Full-Stack Dev
 
 ---
 
-### 🗃️ 6. Database Integration & Management
+### 🗃️ Course 6: Database Integration & Management
 
 | Sl. No | Topic Name                  | Description                                                               |
 |--------|-----------------------------|---------------------------------------------------------------------------|
@@ -89,7 +89,7 @@ This repository documents my learning journey through an advanced Full-Stack Dev
 
 ---
 
-### 🔗 7. Full-Stack Integration
+### 🔗 Course 7: Full-Stack Integration
 
 | Sl. No | Topic Name                       | Description                                                              |
 |--------|----------------------------------|--------------------------------------------------------------------------|
@@ -100,7 +100,7 @@ This repository documents my learning journey through an advanced Full-Stack Dev
 
 ---
 
-### 🔐 8. Security and Authentication
+### 🔐 Course 8: Security and Authentication
 
 | Sl. No | Topic Name                    | Description                                                                |
 |--------|-------------------------------|----------------------------------------------------------------------------|
@@ -111,7 +111,7 @@ This repository documents my learning journey through an advanced Full-Stack Dev
 
 ---
 
-### 📈 9. Performance Optimization
+### 📈 Course 9: Performance Optimization
 
 | Sl. No | Topic Name                        | Description                                                                |
 |--------|-----------------------------------|----------------------------------------------------------------------------|
@@ -122,7 +122,7 @@ This repository documents my learning journey through an advanced Full-Stack Dev
 
 ---
 
-### 🧠 10. Data Structures & Algorithms (DSA)
+### 🧠 Course 10: Data Structures & Algorithms (DSA)
 
 | Sl. No | Topic Name                    | Description                                                               |
 |--------|-------------------------------|---------------------------------------------------------------------------|
@@ -133,7 +133,7 @@ This repository documents my learning journey through an advanced Full-Stack Dev
 | 5      | Algorithm Optimization        | Optimization and Problem Solving                                          |
 ---
 
-### 🚀 11. Deployment & DevOps
+### 🚀 Course 11: Deployment & DevOps
 
 | Sl. No | Topic Name                        | Description                                                              |
 |--------|-----------------------------------|--------------------------------------------------------------------------|
@@ -145,7 +145,7 @@ This repository documents my learning journey through an advanced Full-Stack Dev
 
 ---
 
-### 🏁 12. Capstone Project
+### 🏁 Course 12: Capstone Project
 
 | Sl. No | Topic Name                        | Description                                                              |
 |--------|-----------------------------------|--------------------------------------------------------------------------|
