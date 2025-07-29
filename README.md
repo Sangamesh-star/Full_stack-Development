@@ -17,7 +17,7 @@ This repository documents my learning journey through an advanced Full-Stack Dev
 
 ## 📚 Course and Topics
 
-### 🧱 1. Foundations of Coding & Full-Stack Development
+### 🧱 Course 1. Foundations of Coding & Full-Stack Development
 
 | Sl. No | Topic Name                          | Description                                                                 |
 |--------|-------------------------------------|-----------------------------------------------------------------------------|
